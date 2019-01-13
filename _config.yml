@@ -1,0 +1,89 @@
+# Site Info
+title: ospac
+tagline: '공대생의 일기장'
+description: '공대생의 일기장'
+baseurl: ""
+url: http://ospac.github.io
+logo: '/public/logo.png'
+destination: ./output/
+
+# Site configurations
+plugins:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+version: 1.0.0
+
+
+# About/contact
+author:
+  name: Suhyung
+  description: Suhyung Kwon
+  gravatar: 9f4bd00d1a84e59cebcb6d8917623e26 # md5 hash of your email address
+  contact:
+    # linkedin:  https://www.linkedin.com/in/lizhihao
+    github:    https://github.com/ospac
+    instagram: https://www.instagram.com/suhyeung/
+    facebook:  https://www.facebook.com/profile.php?id=100003206431964
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/'
+  About:
+    - '/about/'
+  Study:
+    - '/blog/study/categories'
+    - { Today I Learned: '/blog/study/categories/#Today I Learned' }
+    - { 알고리즘: '/blog/study/categories/#알고리즘' }
+    - { 웹개발: '/blog/study/categories/#웹개발' }
+    - { 컴퓨터공학: '/blog/study/categories/#컴퓨터공학' }
+  Blog:
+    - '/blog/blogmenu/index'
+    - { 생각들: '/blog/blogmenu/think' }
+  Github Project:
+    - 'http://ospac.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  caption:
+
+# Puglins
+mathjax: true # whether support mathjax
+# google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+disqus_short_name: 'ospac' # leave blank if you don't want disqus
+
+
+#TravisCI설정
+safe: False
+lsi: False
+
+username: Ospac
+repo: blogSourceFiles
+
+production_url: https://ospac.github.io/
+source_url: https://github.com/ospac/blogSourceFiles/
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
+  - node_modules
