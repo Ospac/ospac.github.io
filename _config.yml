@@ -75,10 +75,10 @@ safe: False
 lsi: False
 
 username: Ospac
-repo: blogSourceFiles
+repo: ospac.github.io
 
 production_url: https://ospac.github.io/
-source_url: https://github.com/ospac/blogSourceFiles/
+source_url: https://github.com/ospac/ospac.github.io/
 
 exclude:
   - README.md
