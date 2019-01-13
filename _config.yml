@@ -4,7 +4,7 @@ tagline: '공대생의 일기장'
 description: '공대생의 일기장'
 baseurl: ""
 url: http://ospac.github.io
-logo: '/public/logo.png'
+# logo: '/public/logo.png'
 destination: ./output/
 
 # Site configurations
