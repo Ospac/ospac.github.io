@@ -1,15 +1,13 @@
 ---
-
-
+layout: post
+date: 2018-12-13
+tags: book
+title: colorless tsukuru
+category: 생각들
+comment: true
 ---
 
-<hr>
-<p>layout: post<br>
-date: 2018-12-13<br>
-tags: book<br>
-title: colorless tsukuru<br>
-category: 생각들<br>
-comment: true</p>
+<p></p>
 <hr>
 <p><img src="https://user-images.githubusercontent.com/31947480/51122164-98230300-185c-11e9-8b8d-d4ab490a824b.jpg" alt="kakaotalk_20190115_002530421"></p>
 <p><strong>‘색채가 없는’</strong> 이라고 하면 떠오르는 익숙한 느낌이 있다. 그냥 편하게 그걸 색채가 없다고 하자. 색채가 없는 나라고 생각했었던 적이 있다. 정확히 말하면 주변의 색채가 강렬한 원색으로 비춰져서 큰 대비를 느꼈달까. 그렇다면 나는 무채의 색을 가졌다. 무언가 비어있는, 당연하게 있어야 할 지점들이 결핍되어 있는 것이다. 그런 방식으로 공허한 나는 그 비어있는 공간으로 타인들을 포용한다. 색과 색이 없음의 만남은 충돌이 전혀 없기 때문이다. 나의 공간에 잠시 와서 물을 털고 색을, 흔적을 남기고 떠나버린다. <em>하루키</em> 의 표현을 빌리자면</p>
