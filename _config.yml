@@ -51,8 +51,8 @@ nav:
     - { 웹개발: '/blog/study/categories/#웹개발' }
     - { 컴퓨터공학: '/blog/study/categories/#컴퓨터공학' }
   Write:
-    - '/blog/write/index'
-    - { 생각들: '/blog/write/think' }
+    - '/blog/write/categories'
+    - { 생각들: '/blog/write/categories/#생각들' }
   Github Project:
     - 'http://ospac.github.io/'
 
