@@ -51,7 +51,7 @@ nav:
     - { Today I Learned: '/blog/categories/#Today I Learned' }
     - { Node: '/blog/categories/#Node' }
     - { React: '/blog/categories/#React' }
-    - { CSS: '/blog/categories/#CSS' }
+    - { Game: '/blog/categories/#Game' }
     - { Algorithm: '/blog/categories/#Algorithm' }
     - { Fundamental CS: '/blog/categories/#Fundamental CS' }
   Write:
