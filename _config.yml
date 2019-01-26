@@ -54,6 +54,7 @@ nav:
     - { Game: '/blog/categories/#Game' }
     - { Algorithm: '/blog/categories/#Algorithm' }
     - { Fundamental CS: '/blog/categories/#Fundamental CS' }
+    - { etc: '/blog/categories/#etc'}
   Write:
     - '/blog/categories/#생각들'
     - { 생각들: '/blog/categories/#생각들' }
