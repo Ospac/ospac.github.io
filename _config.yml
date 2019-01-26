@@ -58,7 +58,7 @@ nav:
     - '/blog/categories/#생각들'
     - { 생각들: '/blog/categories/#생각들' }
   Github Project:
-    - 'http://ospac.github.io/'
+    - 'http://ospac.github.io/' 
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
