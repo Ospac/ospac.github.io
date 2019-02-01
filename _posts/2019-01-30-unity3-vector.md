@@ -2,7 +2,7 @@
 layout: post
 date: 2018-1-30
 tags: unity
-title: retr0의 유니티-벡터연산기초
+title: "Unity 03:벡터연산기초"
 category: Game
 comment: true
 
