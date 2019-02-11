@@ -10,6 +10,7 @@ destination: ./output/
 # Site configurations
 plugins:
   - jekyll-paginate
+  - jekyll-gist
 markdown: kramdown
 kramdown:
   input: GFM
