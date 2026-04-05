@@ -63,6 +63,7 @@ path[class~="typst-shape"] {
 }
 
 article {
+  word-break: keep-all;
   > mjx-container.MathJax,
   blockquote > div > mjx-container.MathJax {
     display: flex;
