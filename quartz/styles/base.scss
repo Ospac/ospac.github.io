@@ -42,7 +42,6 @@ td,
 li,
 ol,
 ul,
-.katex,
 .math,
 .typst-doc,
 g[class~="typst-text"] {
@@ -64,18 +63,6 @@ path[class~="typst-shape"] {
 
 article {
   word-break: keep-all;
-  > mjx-container.MathJax,
-  blockquote > div > mjx-container.MathJax {
-    display: flex;
-    > svg {
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  blockquote > div > mjx-container.MathJax > svg {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  }
 }
 
 strong {
@@ -616,12 +603,6 @@ ol.overflow {
   ul {
     padding-left: 1rem;
   }
-}
-
-.katex-display {
-  display: initial;
-  overflow-x: auto;
-  overflow-y: hidden;
 }
 
 .external-embed.youtube,

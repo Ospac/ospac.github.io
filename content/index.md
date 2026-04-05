@@ -7,6 +7,7 @@ date: 2025-03-02
     alt="Love your monster"
     width="850"
     height="640"
+    fetchpriority=high
   />
 폭풍과도 같은 LLM 시대를 헤쳐나갈 씨앗들을 심습니다.
 
